@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HitRonn-Charlie
+- 👋 Hi, I’m @Hitesh Gahlot
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
